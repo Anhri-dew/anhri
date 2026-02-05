@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\bin\Debug\MathCalculator_v2.exe.config
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\bin\Debug\MathCalculator_v2.exe
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\bin\Debug\MathCalculator_v2.pdb
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.Calculator.resources
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.Properties.Resources.resources
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.exe
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.pdb
+C:\Users\Никита\Desktop\практика\calculator_V2\MathCalculator_v2\MathCalculator_v2\obj\Debug\MathCalculator_v2.exe.config
